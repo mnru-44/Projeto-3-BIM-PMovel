@@ -1,1 +1,3 @@
-"# Projeto-3-BIM-PMovel" 
+Hello ;-;
+
+Run "npm install" to install all dependencies for this project ._.
